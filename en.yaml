@@ -1,0 +1,7 @@
+en:
+  app:
+    basicString: "This is a basic string"
+    stringWithToken: "This is a string with a ${token}"
+    stringWithTwoTokens: "This is a string with a ${token} and a ${token2}"
+    stringWithColor: "This is a string with a ${yellow`yellow string`}"
+    stringWithColorAndToken: "This is a string with a ${yellow`yellow ${token} in it`}"
